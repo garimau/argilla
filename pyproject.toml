@@ -59,7 +59,7 @@ server = [
     "alembic ~= 1.9.0",
     "SQLAlchemy ~= 2.0.0",
     # Advanced query search dsl
-    "luqum >= 0.11,< 0.13",
+    "luqum >= 0.11,< 0.14",
     # metrics
     "scikit-learn >= 0.24.2",
     # Statics server
